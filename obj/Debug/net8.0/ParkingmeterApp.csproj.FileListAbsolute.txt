@@ -1,0 +1,14 @@
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\ParkingmeterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\ParkingmeterApp.AssemblyInfoInputs.cache
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\ParkingmeterApp.AssemblyInfo.cs
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\ParkingmeterApp.csproj.CoreCompileInputs.cache
+D:\Repo\ParkingmeterApp\bin\Debug\net8.0\ParkingmeterApp.exe
+D:\Repo\ParkingmeterApp\bin\Debug\net8.0\ParkingmeterApp.deps.json
+D:\Repo\ParkingmeterApp\bin\Debug\net8.0\ParkingmeterApp.runtimeconfig.json
+D:\Repo\ParkingmeterApp\bin\Debug\net8.0\ParkingmeterApp.dll
+D:\Repo\ParkingmeterApp\bin\Debug\net8.0\ParkingmeterApp.pdb
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\ParkingmeterApp.dll
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\refint\ParkingmeterApp.dll
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\ParkingmeterApp.pdb
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\ParkingmeterApp.genruntimeconfig.cache
+D:\Repo\ParkingmeterApp\obj\Debug\net8.0\ref\ParkingmeterApp.dll
